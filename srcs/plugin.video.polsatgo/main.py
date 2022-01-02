@@ -8,6 +8,7 @@ except ImportError:
     # Fall back to Python 2's urllib2
     import urlparse
 
+# test @kodi-pl
 
 import requests
 import xbmcgui
